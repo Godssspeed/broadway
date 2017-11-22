@@ -4,8 +4,8 @@ body {text-align: center; font-family: helvetica; background-repeat: no-repeat; 
 
 h1 {font-size:70px; font-weight: bold;
 background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png"); }
-p.nav{font-size: 18px;
-}
+a, a:active, a:visited, a:hover{font-size: 18px;
+color:white;}
 
 
 h2,h3,h4{ font-weight: bold;}
@@ -26,5 +26,3 @@ p.legal {text-align: left; background-color: dimgray;}
 
 p.legal{font-size: 11px;
  }
-
-#nav{font-size: 18px;}
